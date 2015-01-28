@@ -1,0 +1,22 @@
+h3 {
+	text-align: center;
+}
+table {
+	margin: 10px auto;
+	text-align: center;
+	padding: 1%;
+
+}
+
+td, tr {
+	padding: 20px;
+
+}
+
+form{
+	text-align: center;
+}
+
+form input {
+	width: 25%;
+}
